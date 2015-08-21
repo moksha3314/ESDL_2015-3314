@@ -1,3 +1,4 @@
 Hello
-Glad to learn this project.
+Glad to do this project.
 It will be very helful.
+We are going to implement a new idea.
